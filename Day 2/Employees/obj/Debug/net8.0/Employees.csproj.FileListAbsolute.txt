@@ -1,0 +1,12 @@
+D:\Programming\Study\Career 180\Career180 Backend Track\Day 2\Employees\bin\Debug\net8.0\Employees.deps.json
+D:\Programming\Study\Career 180\Career180 Backend Track\Day 2\Employees\bin\Debug\net8.0\Employees.dll
+D:\Programming\Study\Career 180\Career180 Backend Track\Day 2\Employees\bin\Debug\net8.0\Employees.pdb
+D:\Programming\Study\Career 180\Career180 Backend Track\Day 2\Employees\obj\Debug\net8.0\Employees.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Study\Career 180\Career180 Backend Track\Day 2\Employees\obj\Debug\net8.0\Employees.AssemblyInfoInputs.cache
+D:\Programming\Study\Career 180\Career180 Backend Track\Day 2\Employees\obj\Debug\net8.0\Employees.AssemblyInfo.cs
+D:\Programming\Study\Career 180\Career180 Backend Track\Day 2\Employees\obj\Debug\net8.0\Employees.csproj.CoreCompileInputs.cache
+D:\Programming\Study\Career 180\Career180 Backend Track\Day 2\Employees\obj\Debug\net8.0\Employees.sourcelink.json
+D:\Programming\Study\Career 180\Career180 Backend Track\Day 2\Employees\obj\Debug\net8.0\Employees.dll
+D:\Programming\Study\Career 180\Career180 Backend Track\Day 2\Employees\obj\Debug\net8.0\refint\Employees.dll
+D:\Programming\Study\Career 180\Career180 Backend Track\Day 2\Employees\obj\Debug\net8.0\Employees.pdb
+D:\Programming\Study\Career 180\Career180 Backend Track\Day 2\Employees\obj\Debug\net8.0\ref\Employees.dll
